@@ -6,7 +6,7 @@ upper= lower.upper()
 
 numbers = "1234567890"
 
-symbol = "!@#$%^&*()[];'0"
+symbol = "!@#$%^&*()[];'/|\"
 
 length = 15
 
